@@ -1,5 +1,8 @@
 # daze's osu! skins
 
+## [my cursor folder](https://github.com/daysdaze/skins/raw/main/cursors.zip)
+![cursor](https://user-images.githubusercontent.com/120070611/206866337-4e3b4dfe-fab6-4be5-a36a-498c35db6db4.png)
+
 ## [aristia starfell](https://github.com/daysdaze/skins/raw/main/aristia%20starfall.osk)
 ![image](https://user-images.githubusercontent.com/120070611/206335322-ec7b1c55-88b8-4bc6-a9e6-db4088179594.png)
 
