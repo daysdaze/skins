@@ -21,6 +21,9 @@
 ## [Zane skin](https://github.com/daysdaze/skins/raw/main/%5B%20Zane%20%5D%20%26%202020-05-19.osk)
 ![screenshot070](https://user-images.githubusercontent.com/120070611/206865428-61f34808-94f5-4b2f-b421-fbb055f3bd99.jpg)
 
+## [xKrisk Subahibi Edit](https://github.com/daysdaze/skins/raw/main/xKrisk%20Subahibi%20(daze%20edit).osk)
+![screenshot072](https://user-images.githubusercontent.com/120070611/208141070-02229a7c-97d6-44a0-9272-9bb3d8d1b7ea.jpg)
+
 ## [handsome world skins](https://drive.google.com/drive/folders/1RqdzccNfhI7Pdp5ZtrdydI5d8nCI42Xr?usp=sharing)
 ![screenshot067](https://user-images.githubusercontent.com/120070611/206336035-85624cec-5d39-47b6-b1c4-5ce2ca406648.jpg)
 ![screenshot068](https://user-images.githubusercontent.com/120070611/206336043-cf6b0c4e-0037-4e87-9078-9a2b79a2fb65.jpg)
